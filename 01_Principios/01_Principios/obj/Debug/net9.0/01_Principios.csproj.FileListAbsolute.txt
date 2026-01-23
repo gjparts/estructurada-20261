@@ -1,0 +1,15 @@
+P:\Programas UNAH\2026-1\Programacion Estructurada\01_Principios\01_Principios\bin\Debug\net9.0\01_Principios.exe
+P:\Programas UNAH\2026-1\Programacion Estructurada\01_Principios\01_Principios\bin\Debug\net9.0\01_Principios.deps.json
+P:\Programas UNAH\2026-1\Programacion Estructurada\01_Principios\01_Principios\bin\Debug\net9.0\01_Principios.runtimeconfig.json
+P:\Programas UNAH\2026-1\Programacion Estructurada\01_Principios\01_Principios\bin\Debug\net9.0\01_Principios.dll
+P:\Programas UNAH\2026-1\Programacion Estructurada\01_Principios\01_Principios\bin\Debug\net9.0\01_Principios.pdb
+P:\Programas UNAH\2026-1\Programacion Estructurada\01_Principios\01_Principios\obj\Debug\net9.0\01_Principios.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2026-1\Programacion Estructurada\01_Principios\01_Principios\obj\Debug\net9.0\01_Principios.AssemblyInfoInputs.cache
+P:\Programas UNAH\2026-1\Programacion Estructurada\01_Principios\01_Principios\obj\Debug\net9.0\01_Principios.AssemblyInfo.cs
+P:\Programas UNAH\2026-1\Programacion Estructurada\01_Principios\01_Principios\obj\Debug\net9.0\01_Principios.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2026-1\Programacion Estructurada\01_Principios\01_Principios\obj\Debug\net9.0\01_Principios.sourcelink.json
+P:\Programas UNAH\2026-1\Programacion Estructurada\01_Principios\01_Principios\obj\Debug\net9.0\01_Principios.dll
+P:\Programas UNAH\2026-1\Programacion Estructurada\01_Principios\01_Principios\obj\Debug\net9.0\refint\01_Principios.dll
+P:\Programas UNAH\2026-1\Programacion Estructurada\01_Principios\01_Principios\obj\Debug\net9.0\01_Principios.pdb
+P:\Programas UNAH\2026-1\Programacion Estructurada\01_Principios\01_Principios\obj\Debug\net9.0\01_Principios.genruntimeconfig.cache
+P:\Programas UNAH\2026-1\Programacion Estructurada\01_Principios\01_Principios\obj\Debug\net9.0\ref\01_Principios.dll
