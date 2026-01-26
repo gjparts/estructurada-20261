@@ -70,6 +70,104 @@ Linea 4");
 ▌▓▓▓▄▄▀▀▓▓▓▀▓▓▓▓▓▓▓▓█▓█▓█▓▓▌█▌
 █▐▓▓▓▓▓▓▄▄▄▓▓▓▓▓▓█▓█▓█▓█▓▓▓▐█");
 
+            //Pausar la ejecucion del programa
+            Console.WriteLine("Presione cualquier tecla para continuar...");
+            Console.ReadKey(true); //true impide que se imprima la tecla presionada
+
+            //Limpiar la terminal
+            Console.Clear();
+
+            //colocar el cursor de impresion en determinada posicion
+            //dentro de la terminal
+            Console.SetCursorPosition(70,3);
+            Console.WriteLine("Texto en la columna 70, linea 3");
+
+            Console.SetCursorPosition(10,20);
+            Console.WriteLine("Texto en la columna 10, linea 20");
+
+            Console.SetCursorPosition(8, 0);
+            Console.WriteLine("Texto en la columna 8, linea 0");
+
+            //Importante: el programa continuara imprimiendo a partir
+            //de la ultima linea donde posiciono el cursor.
+
+            //me posiciono en la linea 21, columna 0
+            Console.SetCursorPosition(0, 21);
+
+            //Pausar la ejecucion del programa
+            Console.WriteLine("Presione cualquier tecla para continuar...");
+            Console.ReadKey(true); //true impide que se imprima la tecla presionada
+
+            //Limpiar la terminal
+            Console.Clear();
+
+            //Utilizar colores en la terminal
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("Texto Amarillo");
+
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("Texto Rojo");
+
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine("Texto Azul");
+
+            Console.BackgroundColor = ConsoleColor.DarkGreen;
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("Texto Amarillo sobre fondo verde");
+
+            Console.BackgroundColor = ConsoleColor.DarkBlue;
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine("Texto blanco sobre fondo azul oscuro");
+
+            //Resetear los colores a valores de fabrica
+            Console.ResetColor();
+
+            //varios colores por linea
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.Write("Fresa");
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.Write("Limon");
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.Write("Mango");
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.BackgroundColor = ConsoleColor.DarkGreen;
+            Console.Write("Sandia");
+
+            Console.ResetColor();
+            Console.WriteLine();
+
+            //Hacer una pausa con tiempo.
+            Console.WriteLine("Pausa por dos segundos...");
+            Thread.Sleep(2000); //1000 milisegundos son 1 segundo
+            Console.WriteLine("Listos para continuar.");
+
+            //Pausar la ejecucion del programa
+            Console.WriteLine("Presione cualquier tecla para continuar...");
+            Console.ReadKey(true); //true impide que se imprima la tecla presionada
+
+            //Limpiar la terminal
+            Console.Clear();
+
+            Console.ForegroundColor = ConsoleColor.Green;
+            for (int i = 1; i <= 50; i++)
+            {
+                //imprimir peces
+                Console.SetCursorPosition(i,5);
+                Console.WriteLine("><>");
+                Console.SetCursorPosition(i+5, 20);
+                Console.WriteLine("><>");
+                Console.SetCursorPosition(i+8, 15);
+                Console.WriteLine("><>");
+
+                //hacer una pausa
+                Thread.Sleep(50); //pausa de 50 milisegundos
+
+                //limpiar la pantalla
+                Console.Clear();
+            }
+            Console.ResetColor();
+            //una vez el programa termine pasar el cursor a la linea 21
+            Console.SetCursorPosition(0, 21);
         }
     }
 }
