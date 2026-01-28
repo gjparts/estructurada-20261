@@ -81,6 +81,69 @@
             //declarar e inicializar una variable:
             int b = 100;
             Console.WriteLine(b);
+
+            //declarar multiples variables del mismo tipo en una sola instruccion:
+            //sin valor de inicio:
+            int num1, num2, num3;
+            //con valor de inicio:
+            int cifra1 = 5, cifra2 = 100, cifra3 = -45;
+
+            //el tipo de dato int se utiliza para almacenar numeros
+            //enteros de 4 bytes (32 bit)
+
+            //tipos de dato para almacenar numeros decimales
+            //double: guarda numeros con decimales de 8 bytes (64 bit), decimal de alta precision
+            //float: guarda numeros con decimales de 4 byte (32 bit), decimal de baja precision
+            double valorGrande = 3.1415926;
+            float salario = 20000.46f;
+            //note que al valor float en C# se le debe colocar una
+            //letra f al final. Puede ser mayuscula o minuscula.
+
+            /*tipo de dato Long
+             Almacena un numero entero de alta precision (8 bytes, 64 bit)*/
+            long enteroGrande = 1234123412345L;
+            //se recomienda colocar una L mayuscula al final de
+            //algun valor long.
+
+            /*tipo de dato char: almacena un caracter.
+             Mide 1 byte (8 bit)*/
+            char c1 = 'z';
+            char c2 = '4';
+            char c3 = ' ';
+            char c4 = '\\';
+            char c5 = '"';
+            //observe que el valor para char va encerrado en comillas simples
+            //para obtener la comilla simple puede usar la combinacion ALT+39
+
+            //dentro de char no se puede almacenar mas de un caracter
+
+            //tipo de dato boolean: guarda true ó false (1 bit)
+            //se llama asi en honor de George Boole
+            //1 representa true
+            //0 representa false
+            bool respuesta = true;
+            bool opcion = false;
+
+            //Imprimir el valor de una variable en la consola o terminal
+            //en C# existe dos formas de imprimir variables.
+            //forma 1: concatenar la variable
+            Console.WriteLine("El valor de salario es: "+salario);
+            Console.WriteLine("El valor de respuesta es: "+respuesta);
+            Console.WriteLine("El valor de c4 es: "+c4);
+            Console.WriteLine("El valor de enteroGrande es: "+enteroGrande);
+            
+            //forma 2: usando interpolacion de string
+            Console.WriteLine($"El valor de salario es: {salario}");
+            Console.WriteLine($"El valor de respuesta es: {respuesta}");
+            Console.WriteLine($"El valor de c4 es: {c4}");
+            Console.WriteLine($"El valor de enteroGrande es: {enteroGrande}");
+
+            //otros ejemplos:
+            int x = 6, y = 7;
+            //concatenando:
+            Console.WriteLine("El valor de x es "+x+" el valor de y es "+y);
+            //interpolando:
+            Console.WriteLine($"El valor de x es {x} el valor de y es {y}");
         }
     }
 }
