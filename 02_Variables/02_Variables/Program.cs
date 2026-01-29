@@ -144,6 +144,63 @@
             Console.WriteLine("El valor de x es "+x+" el valor de y es "+y);
             //interpolando:
             Console.WriteLine($"El valor de x es {x} el valor de y es {y}");
+
+            /*Ley de precedencia de operadores
+            Las expresiones se evaluan de izquierda a derecha dando prioridad
+            a los operadores de acuerdo a la tabla siguiente:
+            1) Parentesis
+            2) Exponentes Math.Pow
+            3) Multiplicaciones y Divisiones
+            4) Sumas y Restas
+            5) Operadores logicos NOT !
+            6) Operadores logicos AND &&
+            7) Operadores logicos OR ||     (Alt+124)
+            */
+            double d1 = 5, d2 = 9, d3 = 2, d4 = 10;
+            Console.WriteLine(d1+d2/d3);
+            Console.WriteLine(d2/d3+d1);
+            Console.WriteLine(d1/d4-d3);
+            Console.WriteLine( (d1+d3)/d4+8 );
+            //al 8 en la operacion anterior se conoce como valor constante
+
+            //Concatenacion: unir dos elementos y transformarlos
+            //en un solo string
+            //el caracter para concatenar es el operador +
+            string str1 = "La suma de dos mas dos es "+2+2;
+            Console.WriteLine(str1);
+            //Lo anterior imprimira un resultado incorrecto
+            //debido a que el operador + es un operador
+            //sobrecargado.
+            //si a la izquierda o la derecha del operador +
+            //hay un string entonces este operador va a unir ambos valores
+            //sin operarlos.
+
+            //si a la izquierda y derecha del operador + hay valores
+            //numericos; entonces este operador va a sumarlos. ejm:
+            string str2 = "La suma de dos mas dos es " + (2 + 2);
+            Console.WriteLine(str2);
+
+            /*string+numero = string
+             numero+string = string
+             numero+numero = numero*/
+
+            //uso de elementos char en la concatenacion
+            char char1 = 'A', char2 = 'B';
+            Console.WriteLine(char1);
+            Console.WriteLine(char2);
+            //si concatena dos chars entonces se suma sus valores numericos
+            Console.WriteLine(char1+char2); //131 porque A vale 65, B vale 66 como char en la tabla ASCII
+            //si concatena un string entre los dos chars se imprime cada caracter concatenado
+            Console.WriteLine(char1+""+char2);
+            Console.WriteLine(0+char1); //valor numerico de A
+            Console.WriteLine(0+char2); //valor numerico de B
+            //recuerden que cada char dentro de la tabla de caracteres del sistema operativo
+            //donde se encuentren tiene asignado un valor numerico. En el caso de Windows
+            //del caracter 0 al 255 obedecen a la tabla ASCII (American Standard Code for
+            //Information Interchange) despues del caracter 255 se le conoce como alfabeto
+            //extendido y usualmente en Windows a partir de ahi se usa las tablas ANSI (American
+            //National Standards Institute)
+            
         }
     }
 }
