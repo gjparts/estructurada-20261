@@ -236,6 +236,101 @@
             double valor3 = 2; 
             Console.WriteLine($"El logaritmo de {valor3} es {Math.Log(valor3)}");
             Console.WriteLine($"El logaritmo base 10 de {valor3} es {Math.Log10(valor3)}");
+            //recuerde que el resultado de toda funcion de Math se puede guardar en variable
+            double logaritmo = Math.Log(8);
+            Console.WriteLine($"El logaritmo de 8 es {logaritmo}");
+
+            //Sqrt = Square root o raiz cuadrada
+            double valor4 = 25;
+            //puede calcularlo en el momento de la impresion:
+            Console.WriteLine($"La raiz cuadrada de {valor4} es {Math.Sqrt(valor4)}");
+            
+            //o tambien puede guardarlo en una variable e imprimirlo despues
+            double raiz = Math.Sqrt(valor4);
+            Console.WriteLine($"el valor de raiz es {raiz}");
+
+            //Metodo Round: redondea un numero al proximo entero siempre y cuando
+            //los decimales de este numero superen a la mitad
+            double valor5 = 3.32, valor6 = 7.5, valor7 = 4.00005, valor8 = 6.0, valor9 = 2.87;
+            Console.WriteLine($"Round de {valor5} es {Math.Round(valor5)}");
+            Console.WriteLine($"Round de {valor6} es {Math.Round(valor6)}");
+            Console.WriteLine($"Round de {valor7} es {Math.Round(valor7)}");
+            Console.WriteLine($"Round de {valor8} es {Math.Round(valor8)}");
+            Console.WriteLine($"Round de {valor9} es {Math.Round(valor9)}");
+
+            //Round tambien se puede utilizar para redondear en base a determinadas
+            //posiciones decimales:
+            double num = 3.45356745;
+            Console.WriteLine($"Valor de num: {num}");
+            Console.WriteLine($"Round a 2 decimales: {Math.Round(num,2)}");
+            Console.WriteLine($"Round a 3 decimales: {Math.Round(num, 3)}");
+            Console.WriteLine($"Round a 4 decimales: {Math.Round(num, 4)}");
+            Console.WriteLine($"Round a 6 decimales: {Math.Round(num, 6)}");
+
+            //Metodo Ceiling: devuelve el numero entero superior al valor enviado
+            //siempre y cuando halla parte decimal (redondeo forzado)
+            Console.WriteLine($"Ceiling de {valor5} es {Math.Ceiling(valor5)}");
+            Console.WriteLine($"Ceiling de {valor6} es {Math.Ceiling(valor6)}");
+            Console.WriteLine($"Ceiling de {valor7} es {Math.Ceiling(valor7)}");
+            Console.WriteLine($"Ceiling de {valor8} es {Math.Ceiling(valor8)}");
+            Console.WriteLine($"Ceiling de {valor9} es {Math.Ceiling(valor9)}");
+
+            //Metodo Floor: devuelve la parte entera de un valor enviado
+            Console.WriteLine($"Floor de {valor5} es {Math.Floor(valor5)}");
+            Console.WriteLine($"Floor de {valor6} es {Math.Floor(valor6)}");
+            Console.WriteLine($"Floor de {valor7} es {Math.Floor(valor7)}");
+            Console.WriteLine($"Floor de {valor8} es {Math.Floor(valor8)}");
+            Console.WriteLine($"Floor de {valor9} es {Math.Floor(valor9)}");
+
+            //otro ejemplo:
+            Console.WriteLine($"La parte decimal de {valor5} es {Math.Round(valor5 -Math.Floor(valor5),2)}");
+            //Usted puede combinar las funciones para que trabajen juntas
+
+            //conversiones
+            //primero guardar un valor string o cadena de texto en una variable:
+            string str = "123";
+            //convertir dicho string en un valor entero:
+            int entero = int.Parse(str);
+            Console.WriteLine(entero);
+
+            //otras conversiones
+            str = "5.4356";
+            double qwe = double.Parse(str);
+            Console.WriteLine(qwe);
+
+            float asd = float.Parse(str);
+            Console.WriteLine(asd);
+
+            //convertir cualquier dato numerico a string
+            int entero99 = 456;
+            double fgh = 45.789;
+            float bnm = 4.567f;
+            str = entero99.ToString();
+            Console.WriteLine(str);
+
+            str = fgh.ToString();
+            Console.WriteLine(str);
+
+            str = bnm.ToString();
+            Console.WriteLine(str);
+
+            //Constantes: son valores almacenados en la memoria; pero
+            //que no pueden ser modificados (inmutables)
+            //normalmente se usa constantes para establecer aquellos
+            //valores que no necesitan ser cambiados.
+            const double gravedadTierra = 9.8;
+            //intentemos cambiar gravedadTierra:
+            //gravedadTierra = 10;
+            //lo anterior no se puede porque las constantes
+            //no se pueden reescribir
+
+            double masa = 89.81; //Kg
+            Console.WriteLine($"Para una masa de {masa}Kg el peso en la tierra es {masa*gravedadTierra} Newton");
+
+            const double velocidadLuz = 299792458;
+            Console.WriteLine($"La velocidad de la luz es {velocidadLuz}");
+
+
         }
     }
 }
