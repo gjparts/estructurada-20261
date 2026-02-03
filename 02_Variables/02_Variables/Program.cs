@@ -194,13 +194,48 @@
             Console.WriteLine(char1+""+char2);
             Console.WriteLine(0+char1); //valor numerico de A
             Console.WriteLine(0+char2); //valor numerico de B
-            //recuerden que cada char dentro de la tabla de caracteres del sistema operativo
-            //donde se encuentren tiene asignado un valor numerico. En el caso de Windows
-            //del caracter 0 al 255 obedecen a la tabla ASCII (American Standard Code for
-            //Information Interchange) despues del caracter 255 se le conoce como alfabeto
-            //extendido y usualmente en Windows a partir de ahi se usa las tablas ANSI (American
-            //National Standards Institute)
-            
+                                        //recuerden que cada char dentro de la tabla de caracteres del sistema operativo
+                                        //donde se encuentren tiene asignado un valor numerico. En el caso de Windows
+                                        //del caracter 0 al 255 obedecen a la tabla ASCII (American Standard Code for
+                                        //Information Interchange) despues del caracter 255 se le conoce como alfabeto
+                                        //extendido y usualmente en Windows a partir de ahi se usa las tablas ANSI (American
+                                        //National Standards Institute)
+
+            //Funciones de matematicas en C#
+            //dentro del lenguaje existe una clase llamada Math, esta tiene una serie
+            //de metodos para trabajar ciertos calculos.
+
+            //Metodo Pow: eleva un numero base a determinado exponente
+            double valor1 = 6;
+            Console.WriteLine($"{valor1} al cuadrado es { Math.Pow(valor1,2) }");
+            Console.WriteLine($"{valor1} a la quinta potencia es {Math.Pow(valor1, 5)}");
+
+            //tambien lo puede almacenar en una variable
+            double abc = Math.Pow(valor1,22);
+            Console.WriteLine($"{valor1} elevado a la 22 potencia es {abc}");
+
+            //tambien puede usar Pow para calcular raices:
+            double valor2 = 27;
+            double raizCubica = Math.Pow(valor2,1.0/3.0);
+            Console.WriteLine($"La raiz cubica de {valor2} es {raizCubica}");
+
+            /*porque colocamos 1.0/3.0 en el exponente en lugar de 1/3?
+             los lenguajes de programacion modernos consideran a
+            1/3 como division de enteros, por lo tanto su resultado es CERO:*/
+            Console.WriteLine($"La division de 1/3 es: {1/3}");
+            //en cambio 1.0/3.0 es considerado una division de doubles
+            //siendo su resultado 0.33333
+            Console.WriteLine($"La division de 1.0/3.0 es: {1.0/3.0}");
+
+            //la clase Math incluye tambien valores constantes
+            //que son muy utilizados en matematicas:
+            Console.WriteLine($"El valor de pi es: {Math.PI}");
+            Console.WriteLine($"El valor del exponencial es: {Math.E}");
+
+            //calculos de logaritmos
+            double valor3 = 2; 
+            Console.WriteLine($"El logaritmo de {valor3} es {Math.Log(valor3)}");
+            Console.WriteLine($"El logaritmo base 10 de {valor3} es {Math.Log10(valor3)}");
         }
     }
 }
