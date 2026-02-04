@@ -330,7 +330,22 @@
             const double velocidadLuz = 299792458;
             Console.WriteLine($"La velocidad de la luz es {velocidadLuz}");
 
+            /*tipo de dato Variant
+            Permite declarar una variable que adoptara el tipo de dato de acuerdo
+            al valor que le asignemos en su inicializacion.
+            -> Importante: el uso de tipos Variant es considerado una mala practica
+                           de programacion. Pero aun asi van a encontrar gente que lo usa.
+            -> Las variables de tipo Variant deben de ser inicializadas cuando se declaran.
+             */
+            var algo = 8.8;
+            Console.WriteLine($"El valor de algo es {algo}");
+            Console.WriteLine($"El tipo de dato de algo es {algo.GetType()}");
 
+            var valor500 = "San Pedro Sula";
+            Console.WriteLine($"El valor de algo es {valor500}");
+            Console.WriteLine($"El tipo de dato de algo es {valor500.GetType()}");
+            //una vez inicializado un tipo Variant no es posible cambiarlo a otro tipo:
+            //valor500 = 100.45;
         }
     }
 }
