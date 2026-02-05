@@ -1,0 +1,15 @@
+P:\Programas UNAH\2026-1\Programacion Estructurada\05_Captura3\05_Captura3\bin\Debug\net9.0\05_Captura3.exe
+P:\Programas UNAH\2026-1\Programacion Estructurada\05_Captura3\05_Captura3\bin\Debug\net9.0\05_Captura3.deps.json
+P:\Programas UNAH\2026-1\Programacion Estructurada\05_Captura3\05_Captura3\bin\Debug\net9.0\05_Captura3.runtimeconfig.json
+P:\Programas UNAH\2026-1\Programacion Estructurada\05_Captura3\05_Captura3\bin\Debug\net9.0\05_Captura3.dll
+P:\Programas UNAH\2026-1\Programacion Estructurada\05_Captura3\05_Captura3\bin\Debug\net9.0\05_Captura3.pdb
+P:\Programas UNAH\2026-1\Programacion Estructurada\05_Captura3\05_Captura3\obj\Debug\net9.0\05_Captura3.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2026-1\Programacion Estructurada\05_Captura3\05_Captura3\obj\Debug\net9.0\05_Captura3.AssemblyInfoInputs.cache
+P:\Programas UNAH\2026-1\Programacion Estructurada\05_Captura3\05_Captura3\obj\Debug\net9.0\05_Captura3.AssemblyInfo.cs
+P:\Programas UNAH\2026-1\Programacion Estructurada\05_Captura3\05_Captura3\obj\Debug\net9.0\05_Captura3.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2026-1\Programacion Estructurada\05_Captura3\05_Captura3\obj\Debug\net9.0\05_Captura3.sourcelink.json
+P:\Programas UNAH\2026-1\Programacion Estructurada\05_Captura3\05_Captura3\obj\Debug\net9.0\05_Captura3.dll
+P:\Programas UNAH\2026-1\Programacion Estructurada\05_Captura3\05_Captura3\obj\Debug\net9.0\refint\05_Captura3.dll
+P:\Programas UNAH\2026-1\Programacion Estructurada\05_Captura3\05_Captura3\obj\Debug\net9.0\05_Captura3.pdb
+P:\Programas UNAH\2026-1\Programacion Estructurada\05_Captura3\05_Captura3\obj\Debug\net9.0\05_Captura3.genruntimeconfig.cache
+P:\Programas UNAH\2026-1\Programacion Estructurada\05_Captura3\05_Captura3\obj\Debug\net9.0\ref\05_Captura3.dll
