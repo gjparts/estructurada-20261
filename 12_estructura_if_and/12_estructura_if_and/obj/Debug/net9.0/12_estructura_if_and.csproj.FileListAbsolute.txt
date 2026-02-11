@@ -1,0 +1,15 @@
+P:\Programas UNAH\2026-1\Programacion Estructurada\12_estructura_if_and\12_estructura_if_and\bin\Debug\net9.0\12_estructura_if_and.exe
+P:\Programas UNAH\2026-1\Programacion Estructurada\12_estructura_if_and\12_estructura_if_and\bin\Debug\net9.0\12_estructura_if_and.deps.json
+P:\Programas UNAH\2026-1\Programacion Estructurada\12_estructura_if_and\12_estructura_if_and\bin\Debug\net9.0\12_estructura_if_and.runtimeconfig.json
+P:\Programas UNAH\2026-1\Programacion Estructurada\12_estructura_if_and\12_estructura_if_and\bin\Debug\net9.0\12_estructura_if_and.dll
+P:\Programas UNAH\2026-1\Programacion Estructurada\12_estructura_if_and\12_estructura_if_and\bin\Debug\net9.0\12_estructura_if_and.pdb
+P:\Programas UNAH\2026-1\Programacion Estructurada\12_estructura_if_and\12_estructura_if_and\obj\Debug\net9.0\12_estructura_if_and.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2026-1\Programacion Estructurada\12_estructura_if_and\12_estructura_if_and\obj\Debug\net9.0\12_estructura_if_and.AssemblyInfoInputs.cache
+P:\Programas UNAH\2026-1\Programacion Estructurada\12_estructura_if_and\12_estructura_if_and\obj\Debug\net9.0\12_estructura_if_and.AssemblyInfo.cs
+P:\Programas UNAH\2026-1\Programacion Estructurada\12_estructura_if_and\12_estructura_if_and\obj\Debug\net9.0\12_estructura_if_and.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2026-1\Programacion Estructurada\12_estructura_if_and\12_estructura_if_and\obj\Debug\net9.0\12_estructura_if_and.sourcelink.json
+P:\Programas UNAH\2026-1\Programacion Estructurada\12_estructura_if_and\12_estructura_if_and\obj\Debug\net9.0\12_estructura_if_and.dll
+P:\Programas UNAH\2026-1\Programacion Estructurada\12_estructura_if_and\12_estructura_if_and\obj\Debug\net9.0\refint\12_estructura_if_and.dll
+P:\Programas UNAH\2026-1\Programacion Estructurada\12_estructura_if_and\12_estructura_if_and\obj\Debug\net9.0\12_estructura_if_and.pdb
+P:\Programas UNAH\2026-1\Programacion Estructurada\12_estructura_if_and\12_estructura_if_and\obj\Debug\net9.0\12_estructura_if_and.genruntimeconfig.cache
+P:\Programas UNAH\2026-1\Programacion Estructurada\12_estructura_if_and\12_estructura_if_and\obj\Debug\net9.0\ref\12_estructura_if_and.dll

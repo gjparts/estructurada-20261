@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ptUO5RNaQeE=",
+  "dgSpecHash": "HO6eh/G9+4c=",
   "success": true,
   "projectFilePath": "P:\\Programas UNAH\\2026-1\\Programacion Estructurada\\10_estructura_if\\10_estructura_if\\10_estructura_if.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Gerardo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.12\\microsoft.windowsdesktop.app.ref.9.0.12.nupkg.sha512",
-    "C:\\Users\\Gerardo\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.12\\microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
-    "C:\\Users\\Gerardo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.12\\microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
-    "C:\\Users\\Gerardo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.12\\microsoft.netcore.app.host.win-x64.9.0.12.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
