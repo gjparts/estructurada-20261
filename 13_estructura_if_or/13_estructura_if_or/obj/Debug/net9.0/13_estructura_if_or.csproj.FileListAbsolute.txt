@@ -1,0 +1,15 @@
+P:\Programas UNAH\2026-1\Programacion Estructurada\13_estructura_if_or\13_estructura_if_or\bin\Debug\net9.0\13_estructura_if_or.exe
+P:\Programas UNAH\2026-1\Programacion Estructurada\13_estructura_if_or\13_estructura_if_or\bin\Debug\net9.0\13_estructura_if_or.deps.json
+P:\Programas UNAH\2026-1\Programacion Estructurada\13_estructura_if_or\13_estructura_if_or\bin\Debug\net9.0\13_estructura_if_or.runtimeconfig.json
+P:\Programas UNAH\2026-1\Programacion Estructurada\13_estructura_if_or\13_estructura_if_or\bin\Debug\net9.0\13_estructura_if_or.dll
+P:\Programas UNAH\2026-1\Programacion Estructurada\13_estructura_if_or\13_estructura_if_or\bin\Debug\net9.0\13_estructura_if_or.pdb
+P:\Programas UNAH\2026-1\Programacion Estructurada\13_estructura_if_or\13_estructura_if_or\obj\Debug\net9.0\13_estructura_if_or.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2026-1\Programacion Estructurada\13_estructura_if_or\13_estructura_if_or\obj\Debug\net9.0\13_estructura_if_or.AssemblyInfoInputs.cache
+P:\Programas UNAH\2026-1\Programacion Estructurada\13_estructura_if_or\13_estructura_if_or\obj\Debug\net9.0\13_estructura_if_or.AssemblyInfo.cs
+P:\Programas UNAH\2026-1\Programacion Estructurada\13_estructura_if_or\13_estructura_if_or\obj\Debug\net9.0\13_estructura_if_or.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2026-1\Programacion Estructurada\13_estructura_if_or\13_estructura_if_or\obj\Debug\net9.0\13_estructura_if_or.sourcelink.json
+P:\Programas UNAH\2026-1\Programacion Estructurada\13_estructura_if_or\13_estructura_if_or\obj\Debug\net9.0\13_estructura_if_or.dll
+P:\Programas UNAH\2026-1\Programacion Estructurada\13_estructura_if_or\13_estructura_if_or\obj\Debug\net9.0\refint\13_estructura_if_or.dll
+P:\Programas UNAH\2026-1\Programacion Estructurada\13_estructura_if_or\13_estructura_if_or\obj\Debug\net9.0\13_estructura_if_or.pdb
+P:\Programas UNAH\2026-1\Programacion Estructurada\13_estructura_if_or\13_estructura_if_or\obj\Debug\net9.0\13_estructura_if_or.genruntimeconfig.cache
+P:\Programas UNAH\2026-1\Programacion Estructurada\13_estructura_if_or\13_estructura_if_or\obj\Debug\net9.0\ref\13_estructura_if_or.dll

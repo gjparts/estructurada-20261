@@ -1,0 +1,15 @@
+P:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\14_estructura_if_or_and\bin\Debug\net9.0\14_estructura_if_or_and.exe
+P:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\14_estructura_if_or_and\bin\Debug\net9.0\14_estructura_if_or_and.deps.json
+P:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\14_estructura_if_or_and\bin\Debug\net9.0\14_estructura_if_or_and.runtimeconfig.json
+P:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\14_estructura_if_or_and\bin\Debug\net9.0\14_estructura_if_or_and.dll
+P:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\14_estructura_if_or_and\bin\Debug\net9.0\14_estructura_if_or_and.pdb
+P:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\14_estructura_if_or_and\obj\Debug\net9.0\14_estructura_if_or_and.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\14_estructura_if_or_and\obj\Debug\net9.0\14_estructura_if_or_and.AssemblyInfoInputs.cache
+P:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\14_estructura_if_or_and\obj\Debug\net9.0\14_estructura_if_or_and.AssemblyInfo.cs
+P:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\14_estructura_if_or_and\obj\Debug\net9.0\14_estructura_if_or_and.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\14_estructura_if_or_and\obj\Debug\net9.0\14_estructura_if_or_and.sourcelink.json
+P:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\14_estructura_if_or_and\obj\Debug\net9.0\14_estructura_if_or_and.dll
+P:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\14_estructura_if_or_and\obj\Debug\net9.0\refint\14_estructura_if_or_and.dll
+P:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\14_estructura_if_or_and\obj\Debug\net9.0\14_estructura_if_or_and.pdb
+P:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\14_estructura_if_or_and\obj\Debug\net9.0\14_estructura_if_or_and.genruntimeconfig.cache
+P:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\14_estructura_if_or_and\obj\Debug\net9.0\ref\14_estructura_if_or_and.dll
