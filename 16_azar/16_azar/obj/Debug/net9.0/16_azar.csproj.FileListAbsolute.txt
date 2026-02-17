@@ -1,0 +1,15 @@
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\16_azar\16_azar\bin\Debug\net9.0\16_azar.exe
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\16_azar\16_azar\bin\Debug\net9.0\16_azar.deps.json
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\16_azar\16_azar\bin\Debug\net9.0\16_azar.runtimeconfig.json
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\16_azar\16_azar\bin\Debug\net9.0\16_azar.dll
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\16_azar\16_azar\bin\Debug\net9.0\16_azar.pdb
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\16_azar\16_azar\obj\Debug\net9.0\16_azar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\16_azar\16_azar\obj\Debug\net9.0\16_azar.AssemblyInfoInputs.cache
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\16_azar\16_azar\obj\Debug\net9.0\16_azar.AssemblyInfo.cs
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\16_azar\16_azar\obj\Debug\net9.0\16_azar.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\16_azar\16_azar\obj\Debug\net9.0\16_azar.sourcelink.json
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\16_azar\16_azar\obj\Debug\net9.0\16_azar.dll
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\16_azar\16_azar\obj\Debug\net9.0\refint\16_azar.dll
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\16_azar\16_azar\obj\Debug\net9.0\16_azar.pdb
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\16_azar\16_azar\obj\Debug\net9.0\16_azar.genruntimeconfig.cache
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\16_azar\16_azar\obj\Debug\net9.0\ref\16_azar.dll

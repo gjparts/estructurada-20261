@@ -1,0 +1,15 @@
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\15_estructura_switch\15_estructura_switch\bin\Debug\net9.0\15_estructura_switch.exe
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\15_estructura_switch\15_estructura_switch\bin\Debug\net9.0\15_estructura_switch.deps.json
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\15_estructura_switch\15_estructura_switch\bin\Debug\net9.0\15_estructura_switch.runtimeconfig.json
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\15_estructura_switch\15_estructura_switch\bin\Debug\net9.0\15_estructura_switch.dll
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\15_estructura_switch\15_estructura_switch\bin\Debug\net9.0\15_estructura_switch.pdb
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\15_estructura_switch\15_estructura_switch\obj\Debug\net9.0\15_estructura_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\15_estructura_switch\15_estructura_switch\obj\Debug\net9.0\15_estructura_switch.AssemblyInfoInputs.cache
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\15_estructura_switch\15_estructura_switch\obj\Debug\net9.0\15_estructura_switch.AssemblyInfo.cs
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\15_estructura_switch\15_estructura_switch\obj\Debug\net9.0\15_estructura_switch.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\15_estructura_switch\15_estructura_switch\obj\Debug\net9.0\15_estructura_switch.sourcelink.json
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\15_estructura_switch\15_estructura_switch\obj\Debug\net9.0\15_estructura_switch.dll
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\15_estructura_switch\15_estructura_switch\obj\Debug\net9.0\refint\15_estructura_switch.dll
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\15_estructura_switch\15_estructura_switch\obj\Debug\net9.0\15_estructura_switch.pdb
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\15_estructura_switch\15_estructura_switch\obj\Debug\net9.0\15_estructura_switch.genruntimeconfig.cache
+C:\Programas UNAH\2026-1\Programacion Estructurada\14_estructura_if_or_and\15_estructura_switch\15_estructura_switch\obj\Debug\net9.0\ref\15_estructura_switch.dll

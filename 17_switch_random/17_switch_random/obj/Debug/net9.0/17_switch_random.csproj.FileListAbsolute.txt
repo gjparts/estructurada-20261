@@ -1,0 +1,15 @@
+C:\Programas UNAH\2026-1\Programacion Estructurada\17_switch_random\17_switch_random\bin\Debug\net9.0\17_switch_random.exe
+C:\Programas UNAH\2026-1\Programacion Estructurada\17_switch_random\17_switch_random\bin\Debug\net9.0\17_switch_random.deps.json
+C:\Programas UNAH\2026-1\Programacion Estructurada\17_switch_random\17_switch_random\bin\Debug\net9.0\17_switch_random.runtimeconfig.json
+C:\Programas UNAH\2026-1\Programacion Estructurada\17_switch_random\17_switch_random\bin\Debug\net9.0\17_switch_random.dll
+C:\Programas UNAH\2026-1\Programacion Estructurada\17_switch_random\17_switch_random\bin\Debug\net9.0\17_switch_random.pdb
+C:\Programas UNAH\2026-1\Programacion Estructurada\17_switch_random\17_switch_random\obj\Debug\net9.0\17_switch_random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2026-1\Programacion Estructurada\17_switch_random\17_switch_random\obj\Debug\net9.0\17_switch_random.AssemblyInfoInputs.cache
+C:\Programas UNAH\2026-1\Programacion Estructurada\17_switch_random\17_switch_random\obj\Debug\net9.0\17_switch_random.AssemblyInfo.cs
+C:\Programas UNAH\2026-1\Programacion Estructurada\17_switch_random\17_switch_random\obj\Debug\net9.0\17_switch_random.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2026-1\Programacion Estructurada\17_switch_random\17_switch_random\obj\Debug\net9.0\17_switch_random.sourcelink.json
+C:\Programas UNAH\2026-1\Programacion Estructurada\17_switch_random\17_switch_random\obj\Debug\net9.0\17_switch_random.dll
+C:\Programas UNAH\2026-1\Programacion Estructurada\17_switch_random\17_switch_random\obj\Debug\net9.0\refint\17_switch_random.dll
+C:\Programas UNAH\2026-1\Programacion Estructurada\17_switch_random\17_switch_random\obj\Debug\net9.0\17_switch_random.pdb
+C:\Programas UNAH\2026-1\Programacion Estructurada\17_switch_random\17_switch_random\obj\Debug\net9.0\17_switch_random.genruntimeconfig.cache
+C:\Programas UNAH\2026-1\Programacion Estructurada\17_switch_random\17_switch_random\obj\Debug\net9.0\ref\17_switch_random.dll

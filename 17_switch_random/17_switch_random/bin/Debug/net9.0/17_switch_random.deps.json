@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "17_switch_random/1.0.0": {
+        "runtime": {
+          "17_switch_random.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "17_switch_random/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
