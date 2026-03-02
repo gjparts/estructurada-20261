@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36930.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27_control_de_flujo", "27_control_de_flujo\27_control_de_flujo.csproj", "{7CDF04DA-E808-41EA-969A-2D95E7DF8692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CDF04DA-E808-41EA-969A-2D95E7DF8692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CDF04DA-E808-41EA-969A-2D95E7DF8692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CDF04DA-E808-41EA-969A-2D95E7DF8692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CDF04DA-E808-41EA-969A-2D95E7DF8692}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBEADD22-7EBC-4E7B-9D1F-65D408CB3B39}
+	EndGlobalSection
+EndGlobal

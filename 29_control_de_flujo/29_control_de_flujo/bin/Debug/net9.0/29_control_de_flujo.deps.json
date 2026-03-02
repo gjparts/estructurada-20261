@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "29_control_de_flujo/1.0.0": {
+        "runtime": {
+          "29_control_de_flujo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "29_control_de_flujo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
