@@ -110,6 +110,30 @@
                 Console.WriteLine($"\tValor: {arreglo3[i]}");
             }
 
+            //Aplicar ordenamiento ascendente a un arreglo
+            //Importante, este metodo afecta al arreglo de forma permanente
+            Array.Sort(arreglo3);
+            //imprimamos el arreglo:
+            Console.WriteLine("-------------------------------");
+            for (int i = 0; i < arreglo3.Length; i++)
+            {
+                Console.Write($"Posicion: {i}");
+                Console.WriteLine($"\tValor: {arreglo3[i]}");
+            }
+
+            //Aplicar ordenamiento descendente a un arreglo
+            float[] arreglo4 = { 5.2f, 4.8f, 100, 3.456f, -1.2f, -0.456f, 200, 7 };
+            //Importante: para poder hacer order descendente primero debe
+            //aplicar order ascendente:
+            Array.Sort(arreglo4);
+            Array.Reverse(arreglo4);
+            //imprimir:
+            Console.WriteLine("-------------------------------");
+            for (int i = 0; i < arreglo4.Length; i++)
+            {
+                Console.Write($"Posicion: {i}");
+                Console.WriteLine($"\tValor: {arreglo4[i]}");
+            }
         }
     }
 }
