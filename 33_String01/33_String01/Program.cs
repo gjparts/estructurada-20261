@@ -118,6 +118,74 @@
             //deseo alterar la variable original y dejarla sin relleno:
             persona = persona.Trim();
             Console.WriteLine($"persona: *{persona}*");
+
+            string bebida = "     Coca Cola 3L               ";
+            /*Ejercicio: imprima la variable bebida; pero sin relleno de espacios
+             y en mayusculas, sin alterar la variable original usando
+            una sola instruccion.*/
+            Console.WriteLine(bebida.Trim().ToUpper()); //forma 1
+            Console.WriteLine(bebida.ToUpper().Trim()); //forma 2
+
+            //Concatenar valores char a un String
+            string vehiculo = "Honda Civic 2022";
+            //concatenar un char sin afectar a la variable original
+            Console.WriteLine(vehiculo+'X');
+            Console.WriteLine($"vehiculo (original): {vehiculo}");
+
+            //concantenar un char afectando a la variable original:
+            vehiculo = vehiculo + 'S';
+            Console.WriteLine($"vehiculo (original): {vehiculo}");
+
+            //concatenar varios char a un String afectando la var. original
+            string cliente = "Gerardo Portillo";
+            cliente = cliente + 'X' + 'Y' + 'Z';
+            Console.WriteLine($"cliente: {cliente}");
+
+            //lo anterior no es practico, si va a concatenar
+            //varios char juntos mejor concatene un String:
+            string comprador = "Gerardo Portillo";
+            comprador = comprador + "XYZ";
+            Console.WriteLine($"comprador: {comprador}");
+
+            //puede suceder tambien que tenga el char
+            //almacenado en una variable:
+            char equis = 'X';
+            string proveedor = "Panaderia Popular";
+            proveedor = proveedor + equis;
+            Console.WriteLine($"proveedor: {proveedor}");
+
+            //lo que no conviene hacer:
+            //concatenar varios char usando un operador de incremento:
+            string pet = "sabueso";
+            pet += 'Z'; //esto si se puede
+            Console.WriteLine($"pet: {pet}");
+
+            //lo que no se puede
+            pet += 'Q' + 'W' + 'E';
+            Console.WriteLine($"pet: {pet}");
+            //lo anterior suma los valores numericos de Q W E
+            //mostrando un numero en lugar de QWE
+
+            /*Operador Ternario
+             Retorna el resultado de evaluar una o varias condiciones.
+            Dicho resultado puede tener dos posibilidades:
+            a) el resultado si se cumplen las condiciones
+            b) el resultado si NO se cumplen las condiciones
+            -> IMPORTANTE: cada uno de los resultados debe de ser
+               del mismo tipo de dato.*/
+            //ejemplos:
+            float venta = 1000;
+            bool pagaImpuesto = true;
+            //si paga impuesto se imprime la venta mas el 15%
+            //sino solo se imprime la venta.
+            Console.WriteLine($"Valor a pagar:{(pagaImpuesto == true ? venta * 1.15f : venta)}");
+
+            //asignar el mayor por medio de un ternario: (deben tener el mismo tipo de dato)
+            int a = 5, b = 3;
+            int mayor = ( a > b ? a : b );
+            Console.WriteLine($"mayor: {mayor}");
+
+
         }
     }
 }
