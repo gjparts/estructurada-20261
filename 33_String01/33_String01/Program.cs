@@ -185,7 +185,31 @@
             int mayor = ( a > b ? a : b );
             Console.WriteLine($"mayor: {mayor}");
 
+            //ejericio:
+            string nombre = "Gerardo Josue Portillo";
+            /*Haga un programa que genere un nuevo string que sea copia
+             de la variable nombre; pero durante la copia va a reemplazar
+            cada espacio en blanco con un guion bajo en la copia.
+            Al terminar imprima la variable copia.
+            -> Se prohibe usar el metodo Replace, solo puede usar
+               lo visto hasta este momento.*/
+            //forma 1:
+            string copia = "";
+            for(int i = 0; i < nombre.Length; i++)
+            {
+                if (nombre[i] == ' ')
+                    copia = copia + '_';
+                else
+                    copia = copia + nombre[i];
+            }
+            Console.WriteLine(copia);
 
+            //forma 2:
+            copia = "";
+            for (int i = 0; i < nombre.Length; i++)
+                copia = copia + (nombre[i] == ' ' ? '_' : nombre[i]);
+
+            Console.WriteLine(copia);
         }
     }
 }
