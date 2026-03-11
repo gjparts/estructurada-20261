@@ -18,7 +18,7 @@
             /*Ejercicio: haga una copia del string recien leido en
              una nueva variable. A la copia le van a reemplazar las
             letras E por un 3, las letras A por un 4; pero va a ignorar
-            mayusculas/minusculas para las A y la E.
+            mayusculas/minusculas para las A y las E.
             -> se le prohibe usar replace o expresiones regulares.
             Imprima el contenido de la copia.
             Ejemplo:
