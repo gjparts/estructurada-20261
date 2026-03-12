@@ -25,6 +25,38 @@
             Digite un string: Pera VERDE
             Resultado: P3r4 V3RD3
             */
+
+            //forma 1: ignorar mayusc/minusc con operador OR
+            string copia = "";
+            for( int i = 0; i < str.Length; i++)
+            {
+                if (str[i] == 'A' || str[i] == 'a')
+                    copia = copia + '4';
+                else
+                {
+                    if (str[i] == 'E' || str[i] == 'e')
+                        copia = copia + '3';
+                    else
+                        copia = copia + str[i];
+                }
+            }
+            Console.WriteLine(copia);
+
+            //forma 2: ignorar mayusc/minusc usando metodos
+            copia = "";
+            for (int i = 0; i < str.Length; i++)
+            {
+                if (str.ToUpper()[i] == 'A')
+                    copia = copia + '4';
+                else
+                {
+                    if (str.ToUpper()[i] == 'E')
+                        copia = copia + '3';
+                    else
+                        copia = copia + str[i];
+                }
+            }
+            Console.WriteLine(copia);
         }
     }
 }

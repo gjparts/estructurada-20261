@@ -1,0 +1,15 @@
+C:\Programas UNAH\2026-1\Programacion Estructurada\36_String04\36_String04\bin\Debug\net9.0\36_String04.exe
+C:\Programas UNAH\2026-1\Programacion Estructurada\36_String04\36_String04\bin\Debug\net9.0\36_String04.deps.json
+C:\Programas UNAH\2026-1\Programacion Estructurada\36_String04\36_String04\bin\Debug\net9.0\36_String04.runtimeconfig.json
+C:\Programas UNAH\2026-1\Programacion Estructurada\36_String04\36_String04\bin\Debug\net9.0\36_String04.dll
+C:\Programas UNAH\2026-1\Programacion Estructurada\36_String04\36_String04\bin\Debug\net9.0\36_String04.pdb
+C:\Programas UNAH\2026-1\Programacion Estructurada\36_String04\36_String04\obj\Debug\net9.0\36_String04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2026-1\Programacion Estructurada\36_String04\36_String04\obj\Debug\net9.0\36_String04.AssemblyInfoInputs.cache
+C:\Programas UNAH\2026-1\Programacion Estructurada\36_String04\36_String04\obj\Debug\net9.0\36_String04.AssemblyInfo.cs
+C:\Programas UNAH\2026-1\Programacion Estructurada\36_String04\36_String04\obj\Debug\net9.0\36_String04.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2026-1\Programacion Estructurada\36_String04\36_String04\obj\Debug\net9.0\36_String04.sourcelink.json
+C:\Programas UNAH\2026-1\Programacion Estructurada\36_String04\36_String04\obj\Debug\net9.0\36_String04.dll
+C:\Programas UNAH\2026-1\Programacion Estructurada\36_String04\36_String04\obj\Debug\net9.0\refint\36_String04.dll
+C:\Programas UNAH\2026-1\Programacion Estructurada\36_String04\36_String04\obj\Debug\net9.0\36_String04.pdb
+C:\Programas UNAH\2026-1\Programacion Estructurada\36_String04\36_String04\obj\Debug\net9.0\36_String04.genruntimeconfig.cache
+C:\Programas UNAH\2026-1\Programacion Estructurada\36_String04\36_String04\obj\Debug\net9.0\ref\36_String04.dll
