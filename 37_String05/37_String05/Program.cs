@@ -56,6 +56,16 @@
              colocando un asterisco entre cada caracter de cada color.
             -> Imprima un color por renglon.
             -> Sin afectar el string original*/
+            for(int i = 0; i < colores.Length; i++)
+            {
+                //recorrer cada color caracter por caracter
+                for(int j = 0; j < colores[i].Length; j++)
+                {
+                    Console.Write($"{colores[i][j]}*");
+                }
+                Console.WriteLine(); //pasar al siguiente renglon
+            }
+
         }
     }
 }
