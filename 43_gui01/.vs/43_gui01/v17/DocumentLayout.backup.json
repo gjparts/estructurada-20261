@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "P:\\Programas UNAH\\2026-1\\Programacion Estructurada\\43_gui01\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D9595A34-796A-45E1-829B-5B9263A51FE8}|43_gui01\\43_gui01.csproj|p:\\programas unah\\2026-1\\programacion estructurada\\43_gui01\\43_gui01\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9595A34-796A-45E1-829B-5B9263A51FE8}|43_gui01\\43_gui01.csproj|solutionrelative:43_gui01\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9595A34-796A-45E1-829B-5B9263A51FE8}|43_gui01\\43_gui01.csproj|p:\\programas unah\\2026-1\\programacion estructurada\\43_gui01\\43_gui01\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D9595A34-796A-45E1-829B-5B9263A51FE8}|43_gui01\\43_gui01.csproj|solutionrelative:43_gui01\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2026-1\\Programacion Estructurada\\43_gui01\\43_gui01\\Principal.cs",
+              "RelativeDocumentMoniker": "43_gui01\\Principal.cs",
+              "ToolTip": "P:\\Programas UNAH\\2026-1\\Programacion Estructurada\\43_gui01\\43_gui01\\Principal.cs",
+              "RelativeToolTip": "43_gui01\\Principal.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA7wCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:19:34.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "P:\\Programas UNAH\\2026-1\\Programacion Estructurada\\43_gui01\\43_gui01\\Program.cs",
               "RelativeDocumentMoniker": "43_gui01\\Program.cs",
@@ -30,12 +47,11 @@
               "RelativeToolTip": "43_gui01\\Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAswBsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T16:19:08.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T16:19:08.376Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Principal.cs [Design]",
               "DocumentMoniker": "P:\\Programas UNAH\\2026-1\\Programacion Estructurada\\43_gui01\\43_gui01\\Principal.cs",
               "RelativeDocumentMoniker": "43_gui01\\Principal.cs",
