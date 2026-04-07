@@ -1,0 +1,17 @@
+P:\Programas UNAH\2026-1\Programacion Estructurada\44_gui02\44_gui02\bin\Debug\net9.0-windows\44_gui02.exe
+P:\Programas UNAH\2026-1\Programacion Estructurada\44_gui02\44_gui02\bin\Debug\net9.0-windows\44_gui02.deps.json
+P:\Programas UNAH\2026-1\Programacion Estructurada\44_gui02\44_gui02\bin\Debug\net9.0-windows\44_gui02.runtimeconfig.json
+P:\Programas UNAH\2026-1\Programacion Estructurada\44_gui02\44_gui02\bin\Debug\net9.0-windows\44_gui02.dll
+P:\Programas UNAH\2026-1\Programacion Estructurada\44_gui02\44_gui02\bin\Debug\net9.0-windows\44_gui02.pdb
+P:\Programas UNAH\2026-1\Programacion Estructurada\44_gui02\44_gui02\obj\Debug\net9.0-windows\_44_gui02.Form1.resources
+P:\Programas UNAH\2026-1\Programacion Estructurada\44_gui02\44_gui02\obj\Debug\net9.0-windows\44_gui02.csproj.GenerateResource.cache
+P:\Programas UNAH\2026-1\Programacion Estructurada\44_gui02\44_gui02\obj\Debug\net9.0-windows\44_gui02.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2026-1\Programacion Estructurada\44_gui02\44_gui02\obj\Debug\net9.0-windows\44_gui02.AssemblyInfoInputs.cache
+P:\Programas UNAH\2026-1\Programacion Estructurada\44_gui02\44_gui02\obj\Debug\net9.0-windows\44_gui02.AssemblyInfo.cs
+P:\Programas UNAH\2026-1\Programacion Estructurada\44_gui02\44_gui02\obj\Debug\net9.0-windows\44_gui02.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2026-1\Programacion Estructurada\44_gui02\44_gui02\obj\Debug\net9.0-windows\44_gui02.sourcelink.json
+P:\Programas UNAH\2026-1\Programacion Estructurada\44_gui02\44_gui02\obj\Debug\net9.0-windows\44_gui02.dll
+P:\Programas UNAH\2026-1\Programacion Estructurada\44_gui02\44_gui02\obj\Debug\net9.0-windows\refint\44_gui02.dll
+P:\Programas UNAH\2026-1\Programacion Estructurada\44_gui02\44_gui02\obj\Debug\net9.0-windows\44_gui02.pdb
+P:\Programas UNAH\2026-1\Programacion Estructurada\44_gui02\44_gui02\obj\Debug\net9.0-windows\44_gui02.genruntimeconfig.cache
+P:\Programas UNAH\2026-1\Programacion Estructurada\44_gui02\44_gui02\obj\Debug\net9.0-windows\ref\44_gui02.dll

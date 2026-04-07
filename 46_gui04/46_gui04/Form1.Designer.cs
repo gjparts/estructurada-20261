@@ -1,0 +1,179 @@
+﻿namespace _46_gui04
+{
+    partial class Form1
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            label1 = new Label();
+            caja1 = new TextBox();
+            caja2 = new TextBox();
+            label2 = new Label();
+            caja3 = new TextBox();
+            label3 = new Label();
+            caja4 = new TextBox();
+            label4 = new Label();
+            total = new TextBox();
+            label5 = new Label();
+            SuspendLayout();
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Font = new Font("Segoe UI", 21.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label1.Location = new Point(12, 9);
+            label1.Name = "label1";
+            label1.Size = new Size(38, 40);
+            label1.TabIndex = 0;
+            label1.Text = "a:";
+            // 
+            // caja1
+            // 
+            caja1.Font = new Font("Segoe UI", 21.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            caja1.Location = new Point(112, 6);
+            caja1.Name = "caja1";
+            caja1.Size = new Size(341, 46);
+            caja1.TabIndex = 1;
+            caja1.Text = "0.00";
+            caja1.TextAlign = HorizontalAlignment.Right;
+            // 
+            // caja2
+            // 
+            caja2.Font = new Font("Segoe UI", 21.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            caja2.Location = new Point(112, 58);
+            caja2.Name = "caja2";
+            caja2.Size = new Size(341, 46);
+            caja2.TabIndex = 3;
+            caja2.Text = "0.00";
+            caja2.TextAlign = HorizontalAlignment.Right;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Font = new Font("Segoe UI", 21.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label2.Location = new Point(12, 61);
+            label2.Name = "label2";
+            label2.Size = new Size(40, 40);
+            label2.TabIndex = 2;
+            label2.Text = "b:";
+            // 
+            // caja3
+            // 
+            caja3.Font = new Font("Segoe UI", 21.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            caja3.Location = new Point(112, 110);
+            caja3.Name = "caja3";
+            caja3.Size = new Size(341, 46);
+            caja3.TabIndex = 5;
+            caja3.Text = "0.00";
+            caja3.TextAlign = HorizontalAlignment.Right;
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Font = new Font("Segoe UI", 21.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label3.Location = new Point(12, 113);
+            label3.Name = "label3";
+            label3.Size = new Size(36, 40);
+            label3.TabIndex = 4;
+            label3.Text = "c:";
+            // 
+            // caja4
+            // 
+            caja4.Font = new Font("Segoe UI", 21.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            caja4.Location = new Point(112, 162);
+            caja4.Name = "caja4";
+            caja4.Size = new Size(341, 46);
+            caja4.TabIndex = 7;
+            caja4.Text = "0.00";
+            caja4.TextAlign = HorizontalAlignment.Right;
+            // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.Font = new Font("Segoe UI", 21.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label4.Location = new Point(12, 165);
+            label4.Name = "label4";
+            label4.Size = new Size(40, 40);
+            label4.TabIndex = 6;
+            label4.Text = "d:";
+            // 
+            // total
+            // 
+            total.Font = new Font("Segoe UI", 21.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            total.Location = new Point(112, 214);
+            total.Name = "total";
+            total.ReadOnly = true;
+            total.Size = new Size(341, 46);
+            total.TabIndex = 9;
+            total.Text = "0.00";
+            total.TextAlign = HorizontalAlignment.Right;
+            // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.Font = new Font("Segoe UI", 21.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label5.Location = new Point(12, 217);
+            label5.Name = "label5";
+            label5.Size = new Size(94, 40);
+            label5.TabIndex = 8;
+            label5.Text = "Suma:";
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(465, 272);
+            Controls.Add(total);
+            Controls.Add(label5);
+            Controls.Add(caja4);
+            Controls.Add(label4);
+            Controls.Add(caja3);
+            Controls.Add(label3);
+            Controls.Add(caja2);
+            Controls.Add(label2);
+            Controls.Add(caja1);
+            Controls.Add(label1);
+            Name = "Form1";
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "Sumadora";
+            ResumeLayout(false);
+            PerformLayout();
+        }
+
+        #endregion
+
+        private Label label1;
+        private TextBox caja1;
+        private TextBox caja2;
+        private Label label2;
+        private TextBox caja3;
+        private Label label3;
+        private TextBox caja4;
+        private Label label4;
+        private TextBox total;
+        private Label label5;
+    }
+}

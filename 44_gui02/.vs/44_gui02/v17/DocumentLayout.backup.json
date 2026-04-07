@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\Programas UNAH\\2026-1\\Programacion Estructurada\\44_gui02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8005FE5A-D777-4EAE-8F93-2CB65F6763A8}|44_gui02\\44_gui02.csproj|p:\\programas unah\\2026-1\\programacion estructurada\\44_gui02\\44_gui02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8005FE5A-D777-4EAE-8F93-2CB65F6763A8}|44_gui02\\44_gui02.csproj|solutionrelative:44_gui02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8005FE5A-D777-4EAE-8F93-2CB65F6763A8}|44_gui02\\44_gui02.csproj|p:\\programas unah\\2026-1\\programacion estructurada\\44_gui02\\44_gui02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8005FE5A-D777-4EAE-8F93-2CB65F6763A8}|44_gui02\\44_gui02.csproj|solutionrelative:44_gui02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2026-1\\Programacion Estructurada\\44_gui02\\44_gui02\\Form1.cs",
+              "RelativeDocumentMoniker": "44_gui02\\Form1.cs",
+              "ToolTip": "P:\\Programas UNAH\\2026-1\\Programacion Estructurada\\44_gui02\\44_gui02\\Form1.cs",
+              "RelativeToolTip": "44_gui02\\Form1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvxoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T16:15:35.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "P:\\Programas UNAH\\2026-1\\Programacion Estructurada\\44_gui02\\44_gui02\\Form1.cs",
+              "RelativeDocumentMoniker": "44_gui02\\Form1.cs",
+              "ToolTip": "P:\\Programas UNAH\\2026-1\\Programacion Estructurada\\44_gui02\\44_gui02\\Form1.cs [Design]",
+              "RelativeToolTip": "44_gui02\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T16:08:49.726Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
