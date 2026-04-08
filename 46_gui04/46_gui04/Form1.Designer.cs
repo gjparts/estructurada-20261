@@ -59,6 +59,7 @@
             caja1.TabIndex = 1;
             caja1.Text = "0.00";
             caja1.TextAlign = HorizontalAlignment.Right;
+            caja1.TextChanged += caja1_TextChanged;
             // 
             // caja2
             // 
@@ -69,6 +70,7 @@
             caja2.TabIndex = 3;
             caja2.Text = "0.00";
             caja2.TextAlign = HorizontalAlignment.Right;
+            caja2.TextChanged += caja2_TextChanged;
             // 
             // label2
             // 
@@ -89,6 +91,7 @@
             caja3.TabIndex = 5;
             caja3.Text = "0.00";
             caja3.TextAlign = HorizontalAlignment.Right;
+            caja3.TextChanged += caja3_TextChanged;
             // 
             // label3
             // 
@@ -109,6 +112,7 @@
             caja4.TabIndex = 7;
             caja4.Text = "0.00";
             caja4.TextAlign = HorizontalAlignment.Right;
+            caja4.TextChanged += caja4_TextChanged;
             // 
             // label4
             // 
