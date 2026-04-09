@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "P:\\Programas UNAH\\2026-1\\Programacion Estructurada\\47_gui05\\47_gui05\\Form1.cs",
-              "RelativeDocumentMoniker": "47_gui05\\Form1.cs",
-              "ToolTip": "P:\\Programas UNAH\\2026-1\\Programacion Estructurada\\47_gui05\\47_gui05\\Form1.cs",
-              "RelativeToolTip": "47_gui05\\Form1.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAmwBcAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T16:39:20.92Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -42,8 +29,21 @@
               "ToolTip": "P:\\Programas UNAH\\2026-1\\Programacion Estructurada\\47_gui05\\47_gui05\\Form1.cs [Design]",
               "RelativeToolTip": "47_gui05\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T16:33:20.57Z",
+              "WhenOpened": "2026-04-09T16:07:35.361Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2026-1\\Programacion Estructurada\\47_gui05\\47_gui05\\Form1.cs",
+              "RelativeDocumentMoniker": "47_gui05\\Form1.cs",
+              "ToolTip": "P:\\Programas UNAH\\2026-1\\Programacion Estructurada\\47_gui05\\47_gui05\\Form1.cs",
+              "RelativeToolTip": "47_gui05\\Form1.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwD4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T16:39:20.92Z",
+              "EditorCaption": ""
             }
           ]
         }
