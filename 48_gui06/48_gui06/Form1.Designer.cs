@@ -32,6 +32,13 @@
             caja1 = new TextBox();
             boton1 = new Button();
             boton2 = new Button();
+            boton3 = new Button();
+            boton4 = new Button();
+            boton5 = new Button();
+            label1 = new Label();
+            caja2 = new TextBox();
+            caja3 = new TextBox();
+            label2 = new Label();
             SuspendLayout();
             // 
             // lista1
@@ -74,11 +81,89 @@
             boton2.UseVisualStyleBackColor = true;
             boton2.Click += boton2_Click;
             // 
+            // boton3
+            // 
+            boton3.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            boton3.Location = new Point(735, 124);
+            boton3.Name = "boton3";
+            boton3.Size = new Size(353, 46);
+            boton3.TabIndex = 4;
+            boton3.Text = "Editar";
+            boton3.UseVisualStyleBackColor = true;
+            boton3.Click += boton3_Click;
+            // 
+            // boton4
+            // 
+            boton4.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            boton4.Location = new Point(735, 244);
+            boton4.Name = "boton4";
+            boton4.Size = new Size(353, 46);
+            boton4.TabIndex = 5;
+            boton4.Text = "Eliminar";
+            boton4.UseVisualStyleBackColor = true;
+            boton4.Click += boton4_Click;
+            // 
+            // boton5
+            // 
+            boton5.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            boton5.Location = new Point(733, 357);
+            boton5.Name = "boton5";
+            boton5.Size = new Size(353, 46);
+            boton5.TabIndex = 6;
+            boton5.Text = "Limpiar";
+            boton5.UseVisualStyleBackColor = true;
+            boton5.Click += boton5_Click;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label1.Location = new Point(735, 455);
+            label1.Name = "label1";
+            label1.Size = new Size(171, 25);
+            label1.TabIndex = 7;
+            label1.Text = "Cantidad de Gatos:";
+            // 
+            // caja2
+            // 
+            caja2.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            caja2.Location = new Point(922, 452);
+            caja2.Name = "caja2";
+            caja2.ReadOnly = true;
+            caja2.Size = new Size(164, 33);
+            caja2.TabIndex = 8;
+            // 
+            // caja3
+            // 
+            caja3.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            caja3.Location = new Point(922, 491);
+            caja3.Name = "caja3";
+            caja3.ReadOnly = true;
+            caja3.Size = new Size(164, 33);
+            caja3.TabIndex = 10;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label2.Location = new Point(737, 494);
+            label2.Name = "label2";
+            label2.Size = new Size(176, 25);
+            label2.TabIndex = 9;
+            label2.Text = "Cantidad de Perros:";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1098, 543);
+            Controls.Add(caja3);
+            Controls.Add(label2);
+            Controls.Add(caja2);
+            Controls.Add(label1);
+            Controls.Add(boton5);
+            Controls.Add(boton4);
+            Controls.Add(boton3);
             Controls.Add(boton2);
             Controls.Add(boton1);
             Controls.Add(caja1);
@@ -96,5 +181,12 @@
         private TextBox caja1;
         private Button boton1;
         private Button boton2;
+        private Button boton3;
+        private Button boton4;
+        private Button boton5;
+        private Label label1;
+        private TextBox caja2;
+        private TextBox caja3;
+        private Label label2;
     }
 }
